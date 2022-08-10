@@ -51,7 +51,7 @@ This event will incorporate material presented and refined at the various region
 | 4:30-5:00   | Optional business meeting
 | Evening     | Optional dinner groups
 
-A [more detailed event agenda - coming soon]() is also avaialble.
+A [more detailed event agenda](eventAgenda.md) is also avaialble.
 
 ## Organizers
 
