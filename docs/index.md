@@ -17,7 +17,7 @@ Organized by members of the SIGCSE Committee on Computing Education in Liberal A
 - [Detailed Event Agenda](eventAgenda.md)
 - [Resulting Materials](materials.md)
 
-- [SIGCSE 2022](https://sigcse2023.sigcse.org)
+- [SIGCSE 2023](https://sigcse2023.sigcse.org)
 - [Event Proposal]()
 - [Call for Participation]()
 
