@@ -9,6 +9,9 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 Organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges, this Affiliated Event will promote connection and collaboration within the liberal arts computing community. This full day event will be split into two sessions. The morning session will focus on topics covering the breadth of opportunities and challenges faced by liberal arts computing educators. These topics may include innovative courses, curricula, or co-curricular programs, DEI initiatives, academic and career advising, faculty recruiting and retention, and other issues as identified to have a specific liberal arts perspective. Topics for discussion will be solicited from the community at large and selected submissions will be presented and discussed at the event, with materials and/or notes added to the Committee’s growing repository of materials. The afternoon session will focus on the ACM/IEEE/AAAI CS2023 draft curriculum model. Members of the Committee will lead a workshop based on a liberal-arts focused process they have developed for curriculum review and revision that balances institutional identity with external guidelines for CS curricula. Feedback from this session will inform both the process under development and the Committee’s advocacy efforts with the ACM/IEEE/AAAI curriculum task force. Throughout the event, sessions will give participants an opportunity to learn about work already taking place within the liberal arts computing community as well as to engage in Q&A and breakout discussions. All interested faculty and students are welcome.
 
+## CCSC (Consortium for Computing Sciences in Colleges)
+This event will incorporate material presented and refined at the various regional CCSC conferences in 2022 in support of developing a liberal arts based process for curriculum review and revision.
+
 ## Event Information
 
 - [Registration Link - coming soon]()
@@ -52,7 +55,9 @@ A [more detailed event agenda - coming soon]() is also avaialble.
 
 ## Organizers
 
-
+- Amanda Holland-Minkley, Washington & Jefferson College
+- Andrea Tartaro, Furman University
+- Jakob Barnard, University of Jamestown
 
 ## Program Committee
 
