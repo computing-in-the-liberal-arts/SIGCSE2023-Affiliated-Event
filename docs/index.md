@@ -21,21 +21,18 @@ This event will incorporate material presented and refined at the various region
 - [Resulting Materials](materials.md)
 
 - [SIGCSE 2023](https://sigcse2023.sigcse.org)
-- [Event Proposal]()
-- [Call for Participation]()
+- [Event Proposal](2023-event-proposal.pdf)
+- [Call for Participation](2022CallForParticipation)
 
 ## Important Dates
 
-| Category                            | Date
-|-------------------------------------|-----------------------
-| Submissions Due                     | 
-| Notifications                       | 
-| In-Person Event at SIGCSE           | 
+| Category                           | Date
+|------------------------------------|-----------------------
+| Submissions Due                    | January 17, 2023
+| Notifications                      | January 27, 2023
+| In-Person Event at SIGCSE          | Wednesday March 15, 2023, 9:00am-5:00pm EST
 
-
-
-
-## Event Agenda
+## Event Agenda (TBD)
 
 | Time        | Activity
 |-------------|----------
@@ -61,7 +58,13 @@ A [more detailed event agenda](eventAgenda.md) is also avaialble.
 
 ## Program Committee
 
-Coming soon...
+- Jakob Barnard, University of Jamestown
+- Grant Braught, Dickinson College
+- Janet Davis, Whitman College
+- Amanda Holland-Minkley, Washington & Jefferson College
+- Mario Nakazawa, Berea College
+- Andrea Tartaro, Furman University
+- Jim Teresco, Siena College
 
 ## Sponsors
 
