@@ -18,7 +18,7 @@ This event will incorporate material presented and refined at the various region
 
 - [SIGCSE 2023](https://sigcse2023.sigcse.org)
 - [Event Proposal](2023-event-proposal.pdf)
-- [Call for Participation](2022CallForParticipation.md)
+- [Call for Participation](2023CallForParticipation.md)
     - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submissions requirements and process are available in the Call for Participation.
 
 ## Important Dates
