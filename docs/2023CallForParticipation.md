@@ -58,14 +58,15 @@ The program committee invites submissions following the provided templates indic
 Submissions may be made in one of two ways:
 
 - __E-Mail__:
-  1. Write your submission in a a MS Word or plain text markdown document using the appropriate template from above.
-  1. E-mail the contact for the session with a zip file containing your submission and any images or other supporting files.  The Program Committee will add your submission to the repository.
-  1. If you wish to make more than one submission, please submit a separate zip file for each submission.
+    1. Write your submission in an MS Word or plain text markdown document using the appropriate template from above.
+    1. E-mail the contact for the session, Jakob Barnard (<Jakob.Barnard@uj.edu>), with a zip file containing your submission and any images or other supporting files. The Program Committee will add your submission to the repository.
+    1. If you wish to make more than one submission, please submit a separate zip file for each submission.
+
 
 - __GitHub Pull Request__: If you are comfortable with git and GitHub, submissions may be made via GitHub pull requests.
     1. Fork the Computing in the Liberal Arts [SICSE2023 Affiliated Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2023-Affiliated-Event).
     1. Create a branch for your submission.
-    1. Add a sub-directory for your submission to the appropriate directory (_curricula_, or _unconference_).
+    1. Add a sub-directory for your submission to the appropriate directory (_curricula_, or _opportunities_).
     1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Format your submission using the appropriate markdown template from above.
     1. Push your branch to your fork.
     1. Create a pull request for your branch.
