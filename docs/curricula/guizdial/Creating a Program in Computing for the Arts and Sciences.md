@@ -1,0 +1,33 @@
+# _Creating a Program in Computing for the Arts and Sciences_
+
+## _University of Michigan_
+Contributed by Mark Guzdial, _mjguz@umich.edu_
+
+## Institutional context
+The University of Michigan (U-M) campus in Ann Arbor has about 50K students, with over 32K undergraduate students. The College of Literature, Science, and the Arts (LSA) is the largest of the 19 schools and colleges at U-M with almost 19K students. They offer over 85 majors and submajors and over 100 minors in 41 academic departments. 
+Degrees in Computer Science at the University of Michigan are offered from the Division of Computer Science and Engineering (CSE) in the Department of Electrical Engineering in Computer Science (EECS) in the College of Engineering.  A BS in CS is available from LSA, and a BSE in CS is offered from Engineering, but both degrees are based in CSE. There are no CS faculty in LSA. The School of Information at the University of Michigan offers a BS in Information with two tracks, in data science and in user experience design.
+In September 2000, the Dean Anne Curzan and Associate Dean for Undergraduate Education, Tim McKay, charged a cross-campus task force to explore the future of computing education for LSA students.   The task force interviewed dozens of faculty and students, surveyed a hundred faculty, reviewed hundreds of class syllabi, and investigated our peer institutions for their innovations in computing for liberal arts and sciences. There are existing minors in Complex Systems, Quantitative Methods in Social Sciences (QMSS), and from the Digital Studies Institute (DSI). The final report of the Computing Education Task Force ([available here](https://sites.lsa.umich.edu/computingedu/2022/01/17/release-of-the-lsa-computing-education-task-force-final-report/)) defined three themes for computing education in LSA, different from those in CS or Information:
+- *Computing for Discovery* as in computational science.
+- *Computing for Expression* to reflect the use of computing from social media to Pixar.
+- *Computing for Justice* (critical computing) when considering how computing might exacerbate inequity and how new designs might further diversity, inclusion, and equity.
+
+## Creating the Program in Computing for the Arts and Sciences (PCAS)
+
+LSA is now creating a Program in Computing for the Arts and Sciences (PCAS), with a [website available here](https://lsa.umich.edu/computingfor). I am the director of the program, and Gus Evrard (Physics) is the associate director. PCAS means to serve as a hub for computing education in LSA, connect students with courses and programs, and create new courses and programs.  The goal is to have majors and minors in each of the divisions of LSA (natural sciences, social sciences, and humanities) so that every LSA student can have computing education that meets their needs. Our course code is **COMPFOR** - **COMP**uting **FOR**. 
+The first two courses were offered in Fall 2022:
+- COMPFOR 111 *Computing’s Impact on Justice: From Text to the Web*
+- COMPFOR 121 *Computing for Creative Expression*
+A third course COMPFOR 131 *Introduction to Python for Sciences* is in development, to be offered in Fall 2023.
+The creation of PCAS, as a new model for computing education in liberal arts and sciences, and the design of these first two courses are innovations that are still in development.  Two innovations in the COMPFOR courses that are adoptable by others now are our *participatory design process* and *our scaffolded approach to teaching programming*.
+
+**Participatory Design Process**. Since PCAS courses are meant to serve different needs than those in computing majors (e.g., described in the [ACM/IEEE Computing Curricula](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf)), there aren’t existing models for the courses. We are using a participatory design process with other-than-CS faculty for defining the learning objectives and student activities in these courses.  In all three courses, we gathered a group of faculty volunteers whose scholarship is in computing for expression, for justice, and for discovery.  These faculty worked collaboratively through design activities to define these classes.
+In one activity, a couple dozen learning objectives suggested in the CETF Final Report were placed on a shared whiteboard (in Padlet).  While on a Zoom call, our groups of expression and justice advisors moved to the right of the board those that they felt were most important for courses in that theme, and to the left those that they felt were less important. The expression and justice final boards were very different. “Write secure, safe, and robust code” was on the left of both, though. 
+
+**Scaffolded approach to teaching programming**. Our advisors warned us that many of our students in the COMPFOR courses would be worried about having the necessary mathematics or programming background for a programming course.  We needed to create an easy path into programming. The first two COMPFOR courses use a three-stage scaffolded model for introducing programming to students:
+- Programming is introduced using task-specific programming languages (TSP, or teaspoon languages). For example, the Expression course starts with *Pixel Equations* for defining image filters. The Justice course starts with a teaspoon language for *Sentence generation and recognition*. These are only used for one or two hours of class time.
+- Students write programs in Snap. Students are given projects with many task-specific custom blocks to facilitate transfer from the teaspoon languages into Snap.
+- At several points in the semester, students complete activities in a Runestone ebook to facilitate transfer from Snap into textual languages, like Python, Processing, and SQL.  In each chapter of the ebook, students see a Snap program they’ve used before, then a textual program that does nearly the same thing.  Students are asked to answer multiple-choice questions about the textual program, and encouraged to modify and run the program in the ebook to answer the questions. 
+
+## Challenges/Limitations
+ - We are challenged to create majors and minors yet. What makes PCAS interesting is its connections across LSA. We want to create degree programs that connect to others, but that requires convincing other faculty across LSA to partner.
+  - We have the exciting challenge to define additional courses.  What should be in the PCAS course catalog?
