@@ -16,6 +16,10 @@ This event will incorporate material presented and refined at the various region
 - [Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSfToE00XxOQmTGbWbhZUON2rwLOLMQvXNfTABO_Ue6IXXOOIw/viewform?usp=sf_link)
   - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and using the link above. There is no additional fee for this event.
 
+- [Detailed Event Agenda](eventAgenda.md)
+- [Resulting Materials](materials.md)
+  - Submissions, presentations and session notes from the event.
+
 - [SIGCSE 2023](https://sigcse2023.sigcse.org)
 - [Event Proposal](2023-event-proposal.pdf)
 - [Call for Participation](2023CallForParticipation.md)

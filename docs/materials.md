@@ -6,7 +6,7 @@ This page contains links to materials from the [SIGCSE 2023 Affiliated event](ht
 
   * *Creating a Program in Computing for the Arts and Sciences*, Mark Guzdial, University of Michigan ([md](curricula/guizdial/Creating_a_Program_in_Computing_for_the_Arts_and_Sciences.md), [docx](curricula/guizdial/Creating_a_Program_in_Computing_for_the_Arts_and_Sciences.docx), [pdf](curricula/guizdial/Creating_a_Program_in_Computing_for_the_Arts_and_Sciences.pdf))
   * *An Interdisciplinary Approach to Undergraduate Computing Education*, Amanda Holland-Minkley, Washington & Jefferson College ([docx](curricula/hollandminkley/CurricularInnovationWashJeff.docx), [pdf](curricula/hollandminkley/CurricularInnovationWashJeff.pdf))
-  * *Collaborative Teams in CS and Entrepreneurship Project Courses*, Barbara Lerner, Mount Holyoke College ([docx](docs/curricula/lerner/RevWorkshopPaper.docx), [pdf](docs/curricula/lerner/RevWorkshopPaper.docx))
+  * *Collaborative Teams in CS and Entrepreneurship Project Courses*, Barbara Lerner, Mount Holyoke College ([docx](curricula/lerner/RevWorkshopPaper.docx), [pdf](curricula/lerner/RevWorkshopPaper.docx))
   * *Engaging Undergraduates in Social Justice Issues through Interdisciplinary Course Collaborations*, S. Monisha Pulimood, The College of New Jersey ([docx](curricula/pulimood/CAB_for_social_justice.docx), [pdf](curricula/pulimood/CAB_for_social_justice.docx))
 
 
