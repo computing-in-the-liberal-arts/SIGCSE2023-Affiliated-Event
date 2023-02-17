@@ -16,6 +16,10 @@ This event will incorporate material presented and refined at the various region
 - [Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSfToE00XxOQmTGbWbhZUON2rwLOLMQvXNfTABO_Ue6IXXOOIw/viewform?usp=sf_link)
   - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and using the link above. There is no additional fee for this event.
 
+- [Detailed Event Agenda](eventAgenda.md)
+- [Resulting Materials](materials.md)
+  - Submissions, presentations and session notes from the event.
+
 - [SIGCSE 2023](https://sigcse2023.sigcse.org)
 - [Event Proposal](2023-event-proposal.pdf)
 - [Call for Participation](2023CallForParticipation.md)
@@ -29,11 +33,27 @@ This event will incorporate material presented and refined at the various region
 | Notifications                      | January 27, 2023
 | In-Person Event at SIGCSE          | Wednesday March 15, 2023, 9:00am-5:00pm EST
 
-## Rough Event Agenda
-This event will be broken into two sessions, each a half day. The morning session will focus on topics submitted by the community at large, as described in the abstract above. Selected submissions will be briefly presented, roughly 5-10 minutes each. Breakout sessions will then be used to allow attendees to discuss these topics in small groups with the presenter and other interested attendees. Depending on the number of submissions and range of topics, the agenda might have all topics presented first and then proceed into two rounds of breakout discussions (to allow participants to focus on more than one topic). Alternatively, we may have two sub-sessions of topics presented followed by a breakout session for just those topics.
+## Event Agenda
 
-The afternoon session will be run as a workshop focused on CS2023 and how liberal arts institutions can use it in their curriculum review and revision process. Attendees will get an overview of CS2023 and the Committee’s involvement in crafting a liberal arts response to the proposed new curriculum guidelines. From there, attendees will be led through the opening stages of a “process workbook” that the Committee has developed that helps programs articulate their identity and make strategic choices about revising their curriculum in the light of CS2023. With CS2023 still in draft form, the focus will be on the early stages of the process workbook, while making some use of the draft content. In addition to helping programs get started on our workbook, the Committee will collect feedback to help improve the process and workbook. Attendees will be given access to updated versions and guidance following the session to allow them to continue the work begun at this session once they return to their institutions.
+- Wednesday, March 15th, 2023, 9:00am - 5:00pm
+- Metro Toronto Convention Centre
+- Room 701A
 
+| Time        | Activity
+|-------------|----------
+| 9:00-9:15   | Welcome and Opening Remarks
+| 9:15-10:15  | Curricular-Level Considerations in Liberal Arts Computing Education. 
+| 10:15-10:30 | Break
+| 10:30-11:30 | Course-Level Considerations in Liberal Arts Computing Education.  
+| 11:30-12:00 | Morning Recap & Discussion of Community Priorities
+| 12:00-1:30  | Lunch break (not provided)
+| 1:30-2:00   | Workshop Overview and Introduction to Identity-Focused Curriculum Design and Review 
+| 2:00-4:00   | Guided Sessions with “A Workbook for Liberal Arts Computer Science”
+| 4:00-4:30   | Debrief and Presentation of Next Steps
+| 4:30-5:00   | Open Discussion of CS2023 and ACM/IEEE Curriculum Guidelines
+| Evening     | Optional dinner groups
+
+A more [detailed event agenda](eventAgenda.md) is also available.
 
 ## Organizers
 
