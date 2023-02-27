@@ -1,4 +1,4 @@
-# Innovations and Opportunities<br>in Liberal Arts Computing Education
+# Innovations and Opportunities<br> in Liberal Arts Computing Education
 
 A [SIGCSE 2023](https://sigcse2023.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
